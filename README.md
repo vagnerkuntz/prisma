@@ -1,7 +1,8 @@
-"# prisma"
+# [Prisma.io ORM](https://www.prisma.io/)
 
-- Conhecendo o Prisma Studio
-- Conhecendo o Prisma Client
+- Conhecendo o Prisma Studio ✅
+- Conhecendo o Prisma Client ✅
+-
 
 ### Abrir o prisma studio
 
@@ -9,7 +10,7 @@
 npx prisma studio
 ```
 
-### Adiciona ou remove algo da tabela para refletir o schema que foi editado
+### Execute o comando para aplicar as alterações definidas no arquivo `schema.prisma`.
 
 ```bash
 npx prisma generate
